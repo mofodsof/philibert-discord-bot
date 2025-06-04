@@ -1,4 +1,0 @@
-cloudscraper
-beautifulsoup4
-discord_webhook
-flask
